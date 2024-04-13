@@ -1,0 +1,12 @@
+.contador {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#contadores p {
+    margin-bottom: 5px;
+}
+
+#guardar {
+    margin-top: 20px;
+}
